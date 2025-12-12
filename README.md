@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I am a prospective Mathematics undergraduate set to start my studies in the UK. I am also interested in **Algorithm Design** and **Physics**.
+I am a prospective Mathematics undergraduate set to start my studies in the UK in October 2026. I am also interested in **Algorithm Design** and **Physics**.
 
 I've been living in more than 6 cities around China (for more than one year). I will continue to expand that list with other cities around the globe.
 
