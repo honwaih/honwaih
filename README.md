@@ -1,7 +1,3 @@
-# Hon Wai Hung - Personal Profile
-
-Welcome to my GitHub! Here's a bit about me:
-
 ## 👨‍💻 About Me
 
 I am a prospective Mathematics undergraduate set to start my studies in the UK. I am also interested in **Algorithm Design** and **Physics**.
